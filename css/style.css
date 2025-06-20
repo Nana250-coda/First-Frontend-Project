@@ -312,19 +312,5 @@ footer{
   }  
 }
 
-/* header content*/
-.header-content{
-  width: 100%;
-  top: 16%;
-  left: 0;
-  text-align: center;
-  padding: 0 8px;
-}
-input[type=text],
-input[type=email],
-input[type=submit]{
-  width: 80%;
-  margin: 1.2rem;
-}
-  
+
 
